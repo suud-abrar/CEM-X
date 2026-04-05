@@ -107,7 +107,7 @@ CEMEX aims to:
 ## 📫 Contact
 
 - GitHub: https://github.com/suud-abrar  
-- Project Repository: (Add main repo link here)
+- Project Repository: https://github.com/suud-abrar/CEM-X
 
 ---
 
